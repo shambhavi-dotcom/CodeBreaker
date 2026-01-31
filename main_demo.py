@@ -2,6 +2,16 @@ import pickle
 import networkx as nx
 import pandas as pd
 import torch
+import json
+import os
+
+FRONTEND_PUBLIC = "frontend/public"
+os.makedirs(FRONTEND_PUBLIC, exist_ok=True)
+
+def save_frontend_json(name, obj):
+    with open(os.path.join(FRONTEND_PUBLIC, name), "w") as f:
+        json.dump(obj, f, indent=2, default=str)
+
 
 # =========================
 # Imports
@@ -40,6 +50,13 @@ G = nx.DiGraph(G_multi)
 
 print("Loaded graph")
 print("Nodes:", G.number_of_nodes(), "Edges:", G.number_of_edges())
+
+save_frontend_json("summary.json", {
+    "nodes": G.number_of_nodes(),
+    "edges": G.number_of_edges(),
+    "illicit_wallets": len([n for n in G.nodes() if "illicit" in n])
+})
+
 
 
 # =========================
@@ -167,6 +184,33 @@ features_df["combined_score"] = (
 print("\n=== TOP SUSPICIOUS WALLETS (COMBINED) ===")
 print(features_df.sort_values("combined_score", ascending=False).head(5))
 
+# =========================
+# SAVE TOP HIGH-RISK WALLETS (FRONTEND)
+# =========================
+
+# =========================
+# SAVE TOP WALLETS (PERCENTILE-BASED)
+# =========================
+
+threshold = features_df["combined_score"].quantile(0.95)
+print(f"Top-wallet threshold (95th percentile): {threshold:.3f}")
+
+top_wallets_df = (
+    features_df
+    .sort_values("combined_score", ascending=False)
+    .query("combined_score >= @threshold")
+    .head(10)
+    .copy()
+)
+
+top_wallets_df["wallet"] = top_wallets_df.index
+top_wallets_df = top_wallets_df.reset_index(drop=True)
+
+save_frontend_json(
+    "top_wallets.json",
+    top_wallets_df[["wallet", "combined_score"]].to_dict(orient="records")
+)
+# =========================
 
 # =========================
 # 🔟 Explain top suspect
@@ -189,5 +233,42 @@ reasons = explain_wallet(
 for r in reasons:
     print("-", r)
 
+save_frontend_json("explanation.json", {
+    "wallet": top_wallet,
+    "reasons": reasons
+})
+
 
 print("\n=== PIPELINE COMPLETE ===")
+
+# =========================
+# SAVE FULL WALLET INTELLIGENCE
+# =========================
+
+wallet_intel = (
+    features_df[
+        ["heuristic_risk", "gnn_score", "combined_score"]
+    ]
+    .copy()
+)
+
+wallet_intel["wallet"] = wallet_intel.index
+wallet_intel = wallet_intel.reset_index(drop=True)
+
+save_frontend_json(
+    "wallet_intelligence.json",
+    wallet_intel.to_dict(orient="records")
+)
+wallet_explanations = {}
+
+for wallet in wallet_intel["wallet"]:
+    wallet_explanations[wallet] = explain_wallet(
+        wallet_id=wallet,
+        G=G,
+        risk_scores=stats_df["risk_score"].to_dict(),
+        features_df=features_df,
+        illicit_wallets=illicit_wallets
+    )
+
+
+save_frontend_json("wallet_explanations.json", wallet_explanations)
