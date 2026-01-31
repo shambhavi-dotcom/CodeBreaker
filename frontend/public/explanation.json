@@ -1,0 +1,7 @@
+{
+  "wallet": "illicit_dw2zcfzw0l",
+  "reasons": [
+    "Directly identified as an illicit wallet",
+    "High fan-out behavior (many outgoing transactions)"
+  ]
+}

@@ -5,7 +5,10 @@ def explain_wallet(wallet_id, G, risk_scores, features_df, illicit_wallets):
 
     explanation = []
 
+    # -----------------------
     # Rule-based explanations
+    # -----------------------
+
     if wallet_id in illicit_wallets:
         explanation.append("Directly identified as an illicit wallet")
 
@@ -19,6 +22,30 @@ def explain_wallet(wallet_id, G, risk_scores, features_df, illicit_wallets):
         explanation.append("Highly central wallet in the transaction network")
 
     if risk_scores.get(wallet_id, 0) > 0.7:
-        explanation.append("High heuristic risk score based on rule-based analysis")
+        explanation.append(
+            "High heuristic risk score based on rule-based behavioral analysis"
+        )
+
+    # -----------------------
+    # Fallback explanation
+    # -----------------------
+
+    if not explanation:
+        combined = features_df.loc[wallet_id, "combined_score"]
+
+        if combined >= 0.6:
+            explanation.append(
+                "Wallet exhibits elevated risk indicators but does not strongly "
+                "resemble known illicit structures."
+            )
+        elif combined >= 0.3:
+            explanation.append(
+                "Wallet shows moderate activity with some risk indicators, "
+                "but no strong illicit signals."
+            )
+        else:
+            explanation.append(
+                "Wallet shows no significant behavioral or structural risk indicators."
+            )
 
     return explanation
