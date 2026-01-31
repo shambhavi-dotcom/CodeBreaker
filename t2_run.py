@@ -11,7 +11,7 @@ from t2_config import (
 )
 
 from t2_io import load_graph, load_stats, load_illicit_seeds
-from t2_analysis import (
+from analysis.t2_analysis import (
     add_fan_flags, add_peeling_features, add_illicit_proximity,
     add_centrality_proxy, add_risk_score
 )
