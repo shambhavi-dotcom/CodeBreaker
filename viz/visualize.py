@@ -50,6 +50,7 @@ def visualize_suspicious_subgraph(G, risk_scores):
             group=group,
             color=color,
             size=size,
+            risk=risk,
             title=f"""
             Wallet: {node}<br>
             Risk: {risk:.2f}<br>
@@ -110,4 +111,60 @@ def visualize_suspicious_subgraph(G, risk_scores):
     }
     """)
 
+    # Generate the HTML file
     net.show("frontend/graph.html", notebook=False)
+
+    # ==========================================
+    # NEW: Inject Client-Side Filtering Script
+    # ==========================================
+    
+    js_filtering_script = """
+    <script type="text/javascript">
+        (function() {
+            // This function runs after the graph is initialized.
+            // It looks at the URL parameter 'risk' and filters nodes.
+            window.addEventListener('load', function() {
+                const params = new URLSearchParams(window.location.search);
+                const riskFilter = params.get('risk');
+
+                // If a filter is specified and it's not 'all'
+                if (riskFilter && riskFilter !== 'all') {
+                    
+                    // Access the global 'nodes' dataset created by Pyvis
+                    // 'allNodes' is also a global object containing the full data
+                    const nodesArray = Object.values(allNodes);
+                    const idsToRemove = [];
+
+                    nodesArray.forEach(node => {
+                        const risk = node.risk;
+                        let shouldRemove = true;
+
+                        // Logic matching main_demo.py thresholds
+                        if (riskFilter === 'high' && risk >= 0.66) {
+                            shouldRemove = false;
+                        } else if (riskFilter === 'medium' && risk >= 0.33 && risk < 0.66) {
+                            shouldRemove = false;
+                        } else if (riskFilter === 'low' && risk < 0.33) {
+                            shouldRemove = false;
+                        }
+
+                        if (shouldRemove) {
+                            idsToRemove.push(node.id);
+                        }
+                    });
+
+                    // Perform the removal on the vis.js dataset
+                    if (idsToRemove.length > 0) {
+                        nodes.remove(idsToRemove);
+                    }
+                }
+            });
+        })();
+    </script>
+    """
+
+    # Append the script to the generated HTML file
+    with open("frontend/graph.html", "a") as f:
+        f.write(js_filtering_script)
+        
+    print("Generated frontend/graph.html with filtering enabled.")

@@ -1,1610 +1,1610 @@
 [
   {
     "heuristic_risk": 0.35306748466257665,
-    "gnn_score": 0.6165462136268616,
-    "combined_score": 0.5111547280016121,
+    "gnn_score": 0.9595021605491638,
+    "combined_score": 0.716928290194529,
     "wallet": "illicit_l8hl88kzru"
   },
   {
     "heuristic_risk": 0.7876840490797546,
-    "gnn_score": 1.3466485739022094e-11,
-    "combined_score": 0.31507361963998176,
+    "gnn_score": 7.142901722545503e-06,
+    "combined_score": 0.3150779053732992,
     "wallet": "exchange_xmxb9yo18p"
   },
   {
     "heuristic_risk": 0.2924539877300613,
-    "gnn_score": 0.030787184834480286,
-    "combined_score": 0.1354539071102998,
+    "gnn_score": 0.24432092905044556,
+    "combined_score": 0.2635741525222919,
     "wallet": "w_rtj5pht0hl"
   },
   {
     "heuristic_risk": 0.7870705521472393,
-    "gnn_score": 4.956389812460493e-11,
-    "combined_score": 0.31482822088863405,
+    "gnn_score": 3.4330507332924753e-05,
+    "combined_score": 0.3148488191640231,
     "wallet": "exchange_smado8e7fl"
   },
   {
     "heuristic_risk": 0.7975,
-    "gnn_score": 9.4760720104059e-11,
-    "combined_score": 0.3190000000568564,
+    "gnn_score": 0.0001272049848921597,
+    "combined_score": 0.3190763229909353,
     "wallet": "exchange_ajssuuqo1v"
   },
   {
     "heuristic_risk": 0.2456134969325153,
-    "gnn_score": 0.044426023960113525,
-    "combined_score": 0.1249010150117194,
+    "gnn_score": 0.3036853075027466,
+    "combined_score": 0.28045658923511857,
     "wallet": "w_ywd14ve92m"
   },
   {
     "heuristic_risk": 0.3017944785276073,
-    "gnn_score": 0.04529523476958275,
-    "combined_score": 0.14789493339037968,
+    "gnn_score": 0.5279069542884827,
+    "combined_score": 0.437461969944597,
     "wallet": "w_q46nouhfj7"
   },
   {
     "heuristic_risk": 0.2999539877300613,
-    "gnn_score": 0.52277672290802,
-    "combined_score": 0.4336476407577655,
+    "gnn_score": 0.8881531357765198,
+    "combined_score": 0.6528735242416522,
     "wallet": "w_pki7p5tb94"
   },
   {
     "heuristic_risk": 0.7643711656441718,
-    "gnn_score": 4.242003370791281e-08,
-    "combined_score": 0.3057484917096897,
+    "gnn_score": 3.732199184014462e-05,
+    "combined_score": 0.30577085945422805,
     "wallet": "mixer_spengwyx9t"
   },
   {
     "heuristic_risk": 0.5634969325153375,
-    "gnn_score": 0.562653660774231,
-    "combined_score": 0.562990987352067,
+    "gnn_score": 0.8538026213645935,
+    "combined_score": 0.737680369666749,
     "wallet": "illicit_dw2zcfzw0l"
   },
   {
     "heuristic_risk": 0.30056748466257666,
-    "gnn_score": 0.0592147596180439,
-    "combined_score": 0.15575585112597312,
+    "gnn_score": 0.5511770248413086,
+    "combined_score": 0.45093323261167373,
     "wallet": "w_rht7zewviy"
   },
   {
     "heuristic_risk": 0.24990797546012267,
-    "gnn_score": 0.02415732480585575,
-    "combined_score": 0.1144575859988851,
+    "gnn_score": 0.2742137610912323,
+    "combined_score": 0.2644914557794852,
     "wallet": "w_6hid25owf7"
   },
   {
     "heuristic_risk": 0.7876840490797546,
-    "gnn_score": 1.962411344536008e-10,
-    "combined_score": 0.3150736197496466,
+    "gnn_score": 2.2145890397951007e-05,
+    "combined_score": 0.31508690716668636,
     "wallet": "exchange_qhrrpzlk3e"
   },
   {
     "heuristic_risk": 0.24929447852760733,
-    "gnn_score": 0.052080415189266205,
-    "combined_score": 0.1309660423872478,
+    "gnn_score": 0.08377833664417267,
+    "combined_score": 0.14998479488766264,
     "wallet": "w_zpeal2w37d"
   },
   {
     "heuristic_risk": 0.24929447852760733,
-    "gnn_score": 0.029612569138407707,
-    "combined_score": 0.11748533438420368,
+    "gnn_score": 0.25619760155677795,
+    "combined_score": 0.2534363523451097,
     "wallet": "w_jeget1ghr0"
   },
   {
     "heuristic_risk": 0.24929447852760733,
-    "gnn_score": 0.024746332317590714,
-    "combined_score": 0.11456559154665542,
+    "gnn_score": 0.23626652359962463,
+    "combined_score": 0.24147770855104994,
     "wallet": "w_6t4ufel624"
   },
   {
     "heuristic_risk": 0.55920245398773,
-    "gnn_score": 0.46327435970306396,
-    "combined_score": 0.5016456033773948,
+    "gnn_score": 0.7851002812385559,
+    "combined_score": 0.694741168219619,
     "wallet": "illicit_prcjiwvhdk"
   },
   {
     "heuristic_risk": 0.3542944785276073,
-    "gnn_score": 0.5563346147537231,
-    "combined_score": 0.4755185841051347,
+    "gnn_score": 0.9436872601509094,
+    "combined_score": 0.7079301475015886,
     "wallet": "illicit_wixz2c9ros"
   },
   {
     "heuristic_risk": 0.24990797546012267,
-    "gnn_score": 0.03158816322684288,
-    "combined_score": 0.11891608886521286,
+    "gnn_score": 0.22650791704654694,
+    "combined_score": 0.23586794935267397,
     "wallet": "w_x4w6xlpu0d"
   },
   {
     "heuristic_risk": 0.7698926380368099,
-    "gnn_score": 1.0035460462631818e-08,
-    "combined_score": 0.3079570612360003,
+    "gnn_score": 0.0005099539994262159,
+    "combined_score": 0.3082630276260212,
     "wallet": "mixer_3zkwdeekgy"
   },
   {
     "heuristic_risk": 0.24806748466257666,
-    "gnn_score": 0.0472649410367012,
-    "combined_score": 0.1275859599771675,
+    "gnn_score": 0.26332589983940125,
+    "combined_score": 0.25722254568960035,
     "wallet": "w_lz049enulq"
   },
   {
     "heuristic_risk": 0.5343098159509202,
-    "gnn_score": 6.832630017328256e-10,
-    "combined_score": 0.2137239267903259,
+    "gnn_score": 3.790330811170861e-05,
+    "combined_score": 0.2137466683663265,
     "wallet": "exchange_4xyf9igfu8"
   },
   {
     "heuristic_risk": 0.24990797546012267,
-    "gnn_score": 0.032212041318416595,
-    "combined_score": 0.11929041534762806,
+    "gnn_score": 0.26188749074935913,
+    "combined_score": 0.2570956965545935,
     "wallet": "w_zlma5uofwb"
   },
   {
     "heuristic_risk": 0.24929447852760733,
-    "gnn_score": 0.032808952033519745,
-    "combined_score": 0.1194031641212709,
+    "gnn_score": 0.2186504304409027,
+    "combined_score": 0.2309080615965135,
     "wallet": "w_uhxid4n1u3"
   },
   {
     "heuristic_risk": 0.7766411042944785,
-    "gnn_score": 5.1839936787700935e-09,
-    "combined_score": 0.3106564448281878,
+    "gnn_score": 7.52768391976133e-05,
+    "combined_score": 0.31070160782131,
     "wallet": "mixer_j5sxvwvm4w"
   },
   {
     "heuristic_risk": 0.24929447852760733,
-    "gnn_score": 0.0284081120043993,
-    "combined_score": 0.1167626597312696,
+    "gnn_score": 0.2718532681465149,
+    "combined_score": 0.2628297612396486,
     "wallet": "w_uk9e1v2isq"
   },
   {
     "heuristic_risk": 0.3549079754601227,
-    "gnn_score": 0.5942514538764954,
-    "combined_score": 0.49851406250994634,
+    "gnn_score": 0.9645535945892334,
+    "combined_score": 0.720695382700376,
     "wallet": "illicit_in3oeuvtyt"
   },
   {
     "heuristic_risk": 0.24745398773006133,
-    "gnn_score": 0.03615695983171463,
-    "combined_score": 0.12067577099105331,
+    "gnn_score": 0.22736507654190063,
+    "combined_score": 0.23540065293809387,
     "wallet": "w_xxva2ieuc1"
   },
   {
     "heuristic_risk": 0.301180981595092,
-    "gnn_score": 0.07076291739940643,
-    "combined_score": 0.16293014456779678,
+    "gnn_score": 0.24865838885307312,
+    "combined_score": 0.2696674378708096,
     "wallet": "w_yz7srcbplj"
   },
   {
     "heuristic_risk": 0.24929447852760733,
-    "gnn_score": 0.025824492797255516,
-    "combined_score": 0.11521248727566076,
+    "gnn_score": 0.28568246960639954,
+    "combined_score": 0.2711272791353471,
     "wallet": "w_hzlm72jeyn"
   },
   {
     "heuristic_risk": 0.24622699386503064,
-    "gnn_score": 0.0449410043656826,
-    "combined_score": 0.12545540053795085,
+    "gnn_score": 0.2965637147426605,
+    "combined_score": 0.2764290353323053,
     "wallet": "w_0y9dom5igq"
   },
   {
     "heuristic_risk": 0.248680981595092,
-    "gnn_score": 0.03986050561070442,
-    "combined_score": 0.12338869674951752,
+    "gnn_score": 0.25399380922317505,
+    "combined_score": 0.2518686841324063,
     "wallet": "w_twdl9zs13c"
   },
   {
     "heuristic_risk": 0.30302147239263805,
-    "gnn_score": 0.03991874307394028,
-    "combined_score": 0.1451598362915355,
+    "gnn_score": 0.5302282571792603,
+    "combined_score": 0.43934554922507585,
     "wallet": "w_tz0yncxll4"
   },
   {
     "heuristic_risk": 0.30056748466257666,
-    "gnn_score": 0.08595674484968185,
-    "combined_score": 0.17180104151989783,
+    "gnn_score": 0.5829930305480957,
+    "combined_score": 0.4700228121938881,
     "wallet": "w_tqvdz4x1zh"
   },
   {
     "heuristic_risk": 0.24745398773006133,
-    "gnn_score": 0.03615695983171463,
-    "combined_score": 0.12067577099105331,
+    "gnn_score": 0.22736507654190063,
+    "combined_score": 0.23540065293809387,
     "wallet": "w_y8fv2bc2nn"
   },
   {
     "heuristic_risk": 0.0018404907975460125,
-    "gnn_score": 0.3386566936969757,
-    "combined_score": 0.20393021849766832,
+    "gnn_score": 0.03566911071538925,
+    "combined_score": 0.022137663120780984,
     "wallet": "w_v5g10ur5l8"
   },
   {
     "heuristic_risk": 0.248680981595092,
-    "gnn_score": 0.026703663170337677,
-    "combined_score": 0.11549459054023942,
+    "gnn_score": 0.26178425550460815,
+    "combined_score": 0.2565429548814984,
     "wallet": "w_odro8bnp84"
   },
   {
     "heuristic_risk": 0.24745398773006133,
-    "gnn_score": 0.04545016959309578,
-    "combined_score": 0.1262516979654691,
+    "gnn_score": 0.23439918458461761,
+    "combined_score": 0.23962110882302734,
     "wallet": "w_hsahxthv3a"
   },
   {
     "heuristic_risk": 0.24929447852760733,
-    "gnn_score": 0.024585511535406113,
-    "combined_score": 0.11446909907734466,
+    "gnn_score": 0.23835310339927673,
+    "combined_score": 0.24272965941107344,
     "wallet": "w_uww5wfcpkj"
   },
   {
     "heuristic_risk": 0.5604294478527608,
-    "gnn_score": 0.49171677231788635,
-    "combined_score": 0.519201866373694,
+    "gnn_score": 0.8200255632400513,
+    "combined_score": 0.716187140926993,
     "wallet": "illicit_dalmjegqto"
   },
   {
     "heuristic_risk": 0.248680981595092,
-    "gnn_score": 0.03919161483645439,
-    "combined_score": 0.12298736191243848,
+    "gnn_score": 0.2977801561355591,
+    "combined_score": 0.2781404892996045,
     "wallet": "w_vslwf90km3"
   },
   {
     "heuristic_risk": 0.30056748466257666,
-    "gnn_score": 0.15291966497898102,
-    "combined_score": 0.21197879285241927,
+    "gnn_score": 0.6985862851142883,
+    "combined_score": 0.5393787768545326,
     "wallet": "w_jidknwi5fl"
   },
   {
     "heuristic_risk": 0.3024079754601227,
-    "gnn_score": 0.09448496252298355,
-    "combined_score": 0.17765416993301342,
+    "gnn_score": 0.23376867175102234,
+    "combined_score": 0.2612243932346625,
     "wallet": "w_9xqym52xg8"
   },
   {
     "heuristic_risk": 0.24745398773006133,
-    "gnn_score": 0.03061947599053383,
-    "combined_score": 0.11735328143140289,
+    "gnn_score": 0.23855291306972504,
+    "combined_score": 0.24211334293385955,
     "wallet": "w_5935a0l725"
   },
   {
     "heuristic_risk": 0.24745398773006133,
-    "gnn_score": 0.03890130668878555,
-    "combined_score": 0.12232237910529586,
+    "gnn_score": 0.2567823827266693,
+    "combined_score": 0.25305103366872284,
     "wallet": "w_fwyjxrpj1e"
   },
   {
     "heuristic_risk": 0.001226993865030675,
-    "gnn_score": 0.3260068893432617,
-    "combined_score": 0.19609494307289826,
+    "gnn_score": 0.03286682069301605,
+    "combined_score": 0.020210889961821903,
     "wallet": "w_0s0r2sds8b"
   },
   {
     "heuristic_risk": 0.248680981595092,
-    "gnn_score": 0.03761984780430794,
-    "combined_score": 0.12204430281073769,
+    "gnn_score": 0.25006213784217834,
+    "combined_score": 0.2495096813038083,
     "wallet": "w_ckjlteiyzc"
   },
   {
     "heuristic_risk": 0.003067484662576687,
-    "gnn_score": 0.3646458685398102,
-    "combined_score": 0.22001452989007797,
+    "gnn_score": 0.042256999760866165,
+    "combined_score": 0.026581194839137463,
     "wallet": "w_r6k2vmwwyz"
   },
   {
     "heuristic_risk": 0.7705061349693252,
-    "gnn_score": 1.3008214505561e-09,
-    "combined_score": 0.308202454768223,
+    "gnn_score": 0.00011289519170532003,
+    "combined_score": 0.30827019110857407,
     "wallet": "mixer_zh13cd5glq"
   },
   {
     "heuristic_risk": 0.0018404907975460125,
-    "gnn_score": 0.3386566936969757,
-    "combined_score": 0.20393021849766832,
+    "gnn_score": 0.03566911071538925,
+    "combined_score": 0.022137663120780984,
     "wallet": "w_30t9nt3w5u"
   },
   {
     "heuristic_risk": 0.24929447852760733,
-    "gnn_score": 0.03710314631462097,
-    "combined_score": 0.12197967919981552,
+    "gnn_score": 0.2689356505870819,
+    "combined_score": 0.26107918772375655,
     "wallet": "w_r97y2lofn1"
   },
   {
     "heuristic_risk": 0.248680981595092,
-    "gnn_score": 0.023911723867058754,
-    "combined_score": 0.11381942714453658,
+    "gnn_score": 0.2809949517250061,
+    "combined_score": 0.26806937559396943,
     "wallet": "w_kbp2qd6vas"
   },
   {
     "heuristic_risk": 0.2924539877300613,
-    "gnn_score": 0.061268150806427,
-    "combined_score": 0.15374248781105493,
+    "gnn_score": 0.08323904871940613,
+    "combined_score": 0.16692502730390046,
     "wallet": "w_3nx39rbsv5"
   },
   {
     "heuristic_risk": 0.248680981595092,
-    "gnn_score": 0.02635236643254757,
-    "combined_score": 0.11528381361515244,
+    "gnn_score": 0.23311638832092285,
+    "combined_score": 0.239342231591055,
     "wallet": "w_o75rh8lx6d"
   },
   {
     "heuristic_risk": 0.24929447852760733,
-    "gnn_score": 0.030844908207654953,
-    "combined_score": 0.118224737453223,
+    "gnn_score": 0.2505691647529602,
+    "combined_score": 0.250059302183748,
     "wallet": "w_csk30lvylk"
   },
   {
     "heuristic_risk": 0.25113496932515333,
-    "gnn_score": 0.026305604726076126,
-    "combined_score": 0.1162373516832941,
+    "gnn_score": 0.22897662222385406,
+    "combined_score": 0.23783996702483826,
     "wallet": "w_zbikcidkwn"
   },
   {
     "heuristic_risk": 0.24806748466257666,
-    "gnn_score": 0.031847912818193436,
-    "combined_score": 0.11833574192847576,
+    "gnn_score": 0.27162525057792664,
+    "combined_score": 0.2622021561327156,
     "wallet": "w_zklookep7y"
   },
   {
     "heuristic_risk": 0.24684049079754597,
-    "gnn_score": 0.03227586671710014,
-    "combined_score": 0.11810171746686557,
+    "gnn_score": 0.26831045746803284,
+    "combined_score": 0.2597224707998381,
     "wallet": "w_pnsm43d8w3"
   },
   {
     "heuristic_risk": 0.248680981595092,
-    "gnn_score": 0.031728945672512054,
-    "combined_score": 0.11850976041407307,
+    "gnn_score": 0.25069788098335266,
+    "combined_score": 0.2498911212280484,
     "wallet": "w_3qsqcq30o3"
   },
   {
     "heuristic_risk": 0.248680981595092,
-    "gnn_score": 0.027799120172858238,
-    "combined_score": 0.11615186585933884,
+    "gnn_score": 0.24390000104904175,
+    "combined_score": 0.24581240518839081,
     "wallet": "w_sqt26q3xlr"
   },
   {
     "heuristic_risk": 0.0006134969325153375,
-    "gnn_score": 0.31360554695129395,
-    "combined_score": 0.18840873886471146,
+    "gnn_score": 0.03027777001261711,
+    "combined_score": 0.018412061898163492,
     "wallet": "w_rxdouadvwk"
   },
   {
     "heuristic_risk": 0.3549079754601227,
-    "gnn_score": 0.6542915105819702,
-    "combined_score": 0.5345381263355536,
+    "gnn_score": 0.9793110489845276,
+    "combined_score": 0.7295498314956946,
     "wallet": "illicit_8lw2lm349e"
   },
   {
     "heuristic_risk": 0.24929447852760733,
-    "gnn_score": 0.037273719906806946,
-    "combined_score": 0.12208202410018516,
+    "gnn_score": 0.2387334108352661,
+    "combined_score": 0.24295784089243483,
     "wallet": "w_25sq8croyr"
   },
   {
     "heuristic_risk": 0.248680981595092,
-    "gnn_score": 0.025519177317619324,
-    "combined_score": 0.11478389921487292,
+    "gnn_score": 0.2859604060649872,
+    "combined_score": 0.27104863925726136,
     "wallet": "w_5bcw790pdw"
   },
   {
     "heuristic_risk": 0.248680981595092,
-    "gnn_score": 0.04236805438995361,
-    "combined_score": 0.12489322601706704,
+    "gnn_score": 0.280701607465744,
+    "combined_score": 0.2678933630779477,
     "wallet": "w_18k0axycel"
   },
   {
     "heuristic_risk": 0.24745398773006133,
-    "gnn_score": 0.04545016959309578,
-    "combined_score": 0.1262516979654691,
+    "gnn_score": 0.23439918458461761,
+    "combined_score": 0.23962110882302734,
     "wallet": "w_3j2d54i3qk"
   },
   {
     "heuristic_risk": 0.30056748466257666,
-    "gnn_score": 0.4961191713809967,
-    "combined_score": 0.4178985205354866,
+    "gnn_score": 0.8773182034492493,
+    "combined_score": 0.646617963618296,
     "wallet": "w_upfln4rxyj"
   },
   {
     "heuristic_risk": 0.24806748466257666,
-    "gnn_score": 0.03470180928707123,
-    "combined_score": 0.12004808092738953,
+    "gnn_score": 0.2518642246723175,
+    "combined_score": 0.2503455405893501,
     "wallet": "w_ef0votqtxh"
   },
   {
     "heuristic_risk": 0.250521472392638,
-    "gnn_score": 0.02365991286933422,
-    "combined_score": 0.11440453686492025,
+    "gnn_score": 0.2381037175655365,
+    "combined_score": 0.2430708194963771,
     "wallet": "w_5jsg65kxvf"
   },
   {
     "heuristic_risk": 0.24684049079754597,
-    "gnn_score": 0.04378841072320938,
-    "combined_score": 0.1250092438705311,
+    "gnn_score": 0.23817403614521027,
+    "combined_score": 0.24164062694684127,
     "wallet": "w_cfi4o6l1f9"
   },
   {
     "heuristic_risk": 0.55920245398773,
-    "gnn_score": 0.46327435970306396,
-    "combined_score": 0.5016456033773948,
+    "gnn_score": 0.7851002812385559,
+    "combined_score": 0.694741168219619,
     "wallet": "illicit_amdvlnknd6"
   },
   {
     "heuristic_risk": 0.24745398773006133,
-    "gnn_score": 0.04234796762466431,
-    "combined_score": 0.12439037715693924,
+    "gnn_score": 0.23795242607593536,
+    "combined_score": 0.2417530626585147,
     "wallet": "w_k6re4q6qdy"
   },
   {
     "heuristic_risk": 0.24684049079754597,
-    "gnn_score": 0.0611489936709404,
-    "combined_score": 0.1354255932666407,
+    "gnn_score": 0.30299970507621765,
+    "combined_score": 0.2805360253252135,
     "wallet": "w_psfnkomv2x"
   },
   {
     "heuristic_risk": 0.24622699386503064,
-    "gnn_score": 0.03276398032903671,
-    "combined_score": 0.11814918611596331,
+    "gnn_score": 0.2389969527721405,
+    "combined_score": 0.24188897814999327,
     "wallet": "w_8ut0cvs4f8"
   },
   {
     "heuristic_risk": 0.24745398773006133,
-    "gnn_score": 0.03265782445669174,
-    "combined_score": 0.11857629051109764,
+    "gnn_score": 0.2501080632209778,
+    "combined_score": 0.24904643600484344,
     "wallet": "w_ylurtp0lzj"
   },
   {
     "heuristic_risk": 0.248680981595092,
-    "gnn_score": 0.06758731603622437,
-    "combined_score": 0.14002478524000367,
+    "gnn_score": 0.08700308948755264,
+    "combined_score": 0.15167424856574258,
     "wallet": "w_45bm1enf31"
   },
   {
     "heuristic_risk": 0.24745398773006133,
-    "gnn_score": 0.03615695983171463,
-    "combined_score": 0.12067577099105331,
+    "gnn_score": 0.22736507654190063,
+    "combined_score": 0.23540065293809387,
     "wallet": "w_64jwtektsg"
   },
   {
     "heuristic_risk": 0.24929447852760733,
-    "gnn_score": 0.03518971800804138,
-    "combined_score": 0.12083162296092582,
+    "gnn_score": 0.2571255564689636,
+    "combined_score": 0.2539931342331178,
     "wallet": "w_dtbh55rbc7"
   },
   {
     "heuristic_risk": 0.24990797546012267,
-    "gnn_score": 0.029052773490548134,
-    "combined_score": 0.11739485539596504,
+    "gnn_score": 0.2560666799545288,
+    "combined_score": 0.2536032070974631,
     "wallet": "w_9t7e8g8jdp"
   },
   {
     "heuristic_risk": 0.00245398773006135,
-    "gnn_score": 0.35154128074645996,
-    "combined_score": 0.21190636950036498,
+    "gnn_score": 0.03870076686143875,
+    "combined_score": 0.02420205595394585,
     "wallet": "w_lxslg6mm1z"
   },
   {
     "heuristic_risk": 0.24806748466257666,
-    "gnn_score": 0.028899235650897026,
-    "combined_score": 0.11656653637315598,
+    "gnn_score": 0.24414466321468353,
+    "combined_score": 0.24571379775430527,
     "wallet": "w_2sehe2atn2"
   },
   {
     "heuristic_risk": 0.24745398773006133,
-    "gnn_score": 0.02865290828049183,
-    "combined_score": 0.11617334043284866,
+    "gnn_score": 0.2611083388328552,
+    "combined_score": 0.2556466073324344,
     "wallet": "w_38xrg2gzr7"
   },
   {
     "heuristic_risk": 0.24806748466257666,
-    "gnn_score": 0.04902110993862152,
-    "combined_score": 0.12863966020073261,
+    "gnn_score": 0.353486567735672,
+    "combined_score": 0.3113189464273628,
     "wallet": "w_qacj4t0sek"
   },
   {
     "heuristic_risk": 0.24929447852760733,
-    "gnn_score": 0.05758771672844887,
-    "combined_score": 0.13427042144811224,
+    "gnn_score": 0.08979174494743347,
+    "combined_score": 0.15359283912456106,
     "wallet": "w_txcb48y1o4"
   },
   {
     "heuristic_risk": 0.24806748466257666,
-    "gnn_score": 0.02977030538022518,
-    "combined_score": 0.11708917783822384,
+    "gnn_score": 0.3022085130214691,
+    "combined_score": 0.2805521016779121,
     "wallet": "w_tzk3ny9v20"
   },
   {
     "heuristic_risk": 0.24929447852760733,
-    "gnn_score": 0.027750147506594658,
-    "combined_score": 0.11636788140511585,
+    "gnn_score": 0.30336323380470276,
+    "combined_score": 0.28173574361479353,
     "wallet": "w_m25len606n"
   },
   {
     "heuristic_risk": 0.299340490797546,
-    "gnn_score": 0.519219696521759,
-    "combined_score": 0.4312680380739317,
+    "gnn_score": 0.8864392638206482,
+    "combined_score": 0.6515997665323363,
     "wallet": "w_dzr1yxr2dh"
   },
   {
     "heuristic_risk": 0.001226993865030675,
-    "gnn_score": 0.3260068893432617,
-    "combined_score": 0.19609494307289826,
+    "gnn_score": 0.03286682069301605,
+    "combined_score": 0.020210889961821903,
     "wallet": "w_z4z7whwkmy"
   },
   {
     "heuristic_risk": 0.24684049079754597,
-    "gnn_score": 0.10144125670194626,
-    "combined_score": 0.15960095406547645,
+    "gnn_score": 0.05708097666501999,
+    "combined_score": 0.13298478306308845,
     "wallet": "w_60rjiw1swj"
   },
   {
     "heuristic_risk": 0.24929447852760733,
-    "gnn_score": 0.039705365896224976,
-    "combined_score": 0.12354101169383598,
+    "gnn_score": 0.10360270738601685,
+    "combined_score": 0.16187941956794333,
     "wallet": "w_es6m033ifh"
   },
   {
     "heuristic_risk": 0.001226993865030675,
-    "gnn_score": 0.3260068893432617,
-    "combined_score": 0.19609494307289826,
+    "gnn_score": 0.03286682069301605,
+    "combined_score": 0.020210889961821903,
     "wallet": "w_objlzy1uu9"
   },
   {
     "heuristic_risk": 0.24990797546012267,
-    "gnn_score": 0.02341321110725403,
-    "combined_score": 0.11401111740719504,
+    "gnn_score": 0.2658880054950714,
+    "combined_score": 0.2594960054020209,
     "wallet": "w_qimqodpxnf"
   },
   {
     "heuristic_risk": 0.24929447852760733,
-    "gnn_score": 0.032446105033159256,
-    "combined_score": 0.11918545443093849,
+    "gnn_score": 0.2423757016658783,
+    "combined_score": 0.24514321539080214,
     "wallet": "w_pkyrybovak"
   },
   {
     "heuristic_risk": 0.24990797546012267,
-    "gnn_score": 0.024633323773741722,
-    "combined_score": 0.11474318537961668,
+    "gnn_score": 0.2606496512889862,
+    "combined_score": 0.25635299287836977,
     "wallet": "w_hqmabsi9nb"
   },
   {
     "heuristic_risk": 0.24745398773006133,
-    "gnn_score": 0.04127219691872597,
-    "combined_score": 0.12374491473337623,
+    "gnn_score": 0.2512984573841095,
+    "combined_score": 0.24976067846318695,
     "wallet": "w_lemx15z8vm"
   },
   {
     "heuristic_risk": 0.301180981595092,
-    "gnn_score": 0.06674643605947495,
-    "combined_score": 0.16052025427372177,
+    "gnn_score": 0.5383481979370117,
+    "combined_score": 0.4434813173607083,
     "wallet": "w_jgxaa2ilgb"
   },
   {
     "heuristic_risk": 0.24990797546012267,
-    "gnn_score": 0.024634670466184616,
-    "combined_score": 0.11474399283628887,
+    "gnn_score": 0.2502690553665161,
+    "combined_score": 0.2501246353248877,
     "wallet": "w_ihx74d0gjy"
   },
   {
     "heuristic_risk": 0.248680981595092,
-    "gnn_score": 0.030101051554083824,
-    "combined_score": 0.1175330246880742,
+    "gnn_score": 0.25565534830093384,
+    "combined_score": 0.2528656016185971,
     "wallet": "w_9mx2x18haf"
   },
   {
     "heuristic_risk": 0.24929447852760733,
-    "gnn_score": 0.026369133964180946,
-    "combined_score": 0.11553927253460956,
+    "gnn_score": 0.24178622663021088,
+    "combined_score": 0.24478953632986616,
     "wallet": "w_6ub7l8v1zo"
   },
   {
     "heuristic_risk": 0.248680981595092,
-    "gnn_score": 0.0290716253221035,
-    "combined_score": 0.11691536783129891,
+    "gnn_score": 0.23542852699756622,
+    "combined_score": 0.24072951479704102,
     "wallet": "w_s1k9ye9o2m"
   },
   {
     "heuristic_risk": 0.30056748466257666,
-    "gnn_score": 0.08405345678329468,
-    "combined_score": 0.17065906868006553,
+    "gnn_score": 0.6193639039993286,
+    "combined_score": 0.49184535414602126,
     "wallet": "w_0hpmnz1udb"
   },
   {
     "heuristic_risk": 0.24806748466257666,
-    "gnn_score": 0.030542556196451187,
-    "combined_score": 0.11755252758290138,
+    "gnn_score": 0.2542262673377991,
+    "combined_score": 0.25176276022817456,
     "wallet": "w_xux1oxrwk8"
   },
   {
     "heuristic_risk": 0.24745398773006133,
-    "gnn_score": 0.03096625581383705,
-    "combined_score": 0.11756135007044288,
+    "gnn_score": 0.23885464668273926,
+    "combined_score": 0.2422943920423648,
     "wallet": "w_atatj9a3y3"
   },
   {
     "heuristic_risk": 0.0006134969325153375,
-    "gnn_score": 0.31360554695129395,
-    "combined_score": 0.18840873886471146,
+    "gnn_score": 0.03027777001261711,
+    "combined_score": 0.018412061898163492,
     "wallet": "w_rcnbh6nqqb"
   },
   {
     "heuristic_risk": 0.3017944785276073,
-    "gnn_score": 0.05287615954875946,
-    "combined_score": 0.15244348863041474,
+    "gnn_score": 0.4475390911102295,
+    "combined_score": 0.38924124607718064,
     "wallet": "w_0lvsnujza7"
   },
   {
     "heuristic_risk": 0.24929447852760733,
-    "gnn_score": 0.029707543551921844,
-    "combined_score": 0.1175423182872541,
+    "gnn_score": 0.29048529267311096,
+    "combined_score": 0.27400896999514174,
     "wallet": "w_qx6gvwrdml"
   },
   {
     "heuristic_risk": 0.24745398773006133,
-    "gnn_score": 0.03510067239403725,
-    "combined_score": 0.12004199852844688,
+    "gnn_score": 0.2747081220149994,
+    "combined_score": 0.26380646830102417,
     "wallet": "w_azytjxepq8"
   },
   {
     "heuristic_risk": 0.5561349693251534,
-    "gnn_score": 0.3935908377170563,
-    "combined_score": 0.45860849930099185,
+    "gnn_score": 0.621738076210022,
+    "combined_score": 0.595496839416539,
     "wallet": "illicit_1bj9rm7pyx"
   },
   {
     "heuristic_risk": 0.35552147239263804,
-    "gnn_score": 0.5724995732307434,
-    "combined_score": 0.48570833885596576,
+    "gnn_score": 0.9504572153091431,
+    "combined_score": 0.712482941984399,
     "wallet": "illicit_8qzpky32or"
   },
   {
     "heuristic_risk": 0.24622699386503064,
-    "gnn_score": 0.03846876695752144,
-    "combined_score": 0.12157205921064124,
+    "gnn_score": 0.24206094443798065,
+    "combined_score": 0.24372736420880065,
     "wallet": "w_xpj4hnriuu"
   },
   {
     "heuristic_risk": 0.301180981595092,
-    "gnn_score": 0.09498777240514755,
-    "combined_score": 0.17746505757124145,
+    "gnn_score": 0.5906803607940674,
+    "combined_score": 0.47488062699587064,
     "wallet": "w_7fxzv4u3bb"
   },
   {
     "heuristic_risk": 0.24806748466257666,
-    "gnn_score": 0.050990521907806396,
-    "combined_score": 0.12982130738224354,
+    "gnn_score": 0.09532494097948074,
+    "combined_score": 0.1564219606878933,
     "wallet": "w_waouaxeqbn"
   },
   {
     "heuristic_risk": 0.24745398773006133,
-    "gnn_score": 0.04262375831604004,
-    "combined_score": 0.12455585082670662,
+    "gnn_score": 0.2544569969177246,
+    "combined_score": 0.2516557932426593,
     "wallet": "w_qlgzui1b0z"
   },
   {
     "heuristic_risk": 0.24990797546012267,
-    "gnn_score": 0.026255318894982338,
-    "combined_score": 0.1157163830111546,
+    "gnn_score": 0.2502046525478363,
+    "combined_score": 0.25008598171275087,
     "wallet": "w_vifttd96qe"
   },
   {
     "heuristic_risk": 0.24684049079754597,
-    "gnn_score": 0.03787250071763992,
-    "combined_score": 0.12145969786718944,
+    "gnn_score": 0.28605401515960693,
+    "combined_score": 0.2703686054147826,
     "wallet": "w_43c5ba75uu"
   },
   {
     "heuristic_risk": 0.3024079754601227,
-    "gnn_score": 0.046797532588243484,
-    "combined_score": 0.1490417108545823,
+    "gnn_score": 0.19283631443977356,
+    "combined_score": 0.23666498480837772,
     "wallet": "w_x63cfl0uke"
   },
   {
     "heuristic_risk": 0.0006134969325153375,
-    "gnn_score": 0.31360554695129395,
-    "combined_score": 0.18840873886471146,
+    "gnn_score": 0.03027777001261711,
+    "combined_score": 0.018412061898163492,
     "wallet": "w_yrvxoieves"
   },
   {
     "heuristic_risk": 0.24745398773006133,
-    "gnn_score": 0.051422953605651855,
-    "combined_score": 0.12983536762794468,
+    "gnn_score": 0.35185763239860535,
+    "combined_score": 0.3100961804916522,
     "wallet": "w_bhb7s9tj1g"
   },
   {
     "heuristic_risk": 0.3017944785276073,
-    "gnn_score": 0.0688304752111435,
-    "combined_score": 0.16201607653772904,
+    "gnn_score": 0.5575916767120361,
+    "combined_score": 0.45527282128012253,
     "wallet": "w_8hmbr5xqt4"
   },
   {
     "heuristic_risk": 0.5622699386503068,
-    "gnn_score": 0.5344226956367493,
-    "combined_score": 0.5455615928421723,
+    "gnn_score": 0.8423287272453308,
+    "combined_score": 0.7303052356491792,
     "wallet": "illicit_69ugnekrcp"
   },
   {
     "heuristic_risk": 0.24990797546012267,
-    "gnn_score": 0.026047980412840843,
-    "combined_score": 0.11559197880428261,
+    "gnn_score": 0.24171918630599976,
+    "combined_score": 0.24499470196764894,
     "wallet": "w_2iagl58kxo"
   },
   {
     "heuristic_risk": 0.24745398773006133,
-    "gnn_score": 0.06529935449361801,
-    "combined_score": 0.13816121076842758,
+    "gnn_score": 0.2800711989402771,
+    "combined_score": 0.2670243144561908,
     "wallet": "w_j2qp89uzfk"
   },
   {
     "heuristic_risk": 0.24806748466257666,
-    "gnn_score": 0.04121997207403183,
-    "combined_score": 0.12395897822703686,
+    "gnn_score": 0.25422534346580505,
+    "combined_score": 0.2517622088852104,
     "wallet": "w_0s9bp4m18o"
   },
   {
     "heuristic_risk": 0.2999539877300613,
-    "gnn_score": 0.0644935816526413,
-    "combined_score": 0.1586777463187835,
+    "gnn_score": 0.5221135020256042,
+    "combined_score": 0.433249720149245,
     "wallet": "w_owgzrixa11"
   },
   {
     "heuristic_risk": 0.24990797546012267,
-    "gnn_score": 0.03139684721827507,
-    "combined_score": 0.1188012996326012,
+    "gnn_score": 0.2501204311847687,
+    "combined_score": 0.25003545187514253,
     "wallet": "w_yar821uzvg"
   },
   {
     "heuristic_risk": 0.24929447852760733,
-    "gnn_score": 0.024831850081682205,
-    "combined_score": 0.11461690183258129,
+    "gnn_score": 0.25033441185951233,
+    "combined_score": 0.24991844150698256,
     "wallet": "w_dyt9moge4q"
   },
   {
     "heuristic_risk": 0.24745398773006133,
-    "gnn_score": 0.036557652056217194,
-    "combined_score": 0.12091618632575485,
+    "gnn_score": 0.28635144233703613,
+    "combined_score": 0.2707924604942462,
     "wallet": "w_3r30me8f84"
   },
   {
     "heuristic_risk": 0.248680981595092,
-    "gnn_score": 0.03405848518013954,
-    "combined_score": 0.11990748374612054,
+    "gnn_score": 0.2869468927383423,
+    "combined_score": 0.2716405282810422,
     "wallet": "w_6ccvcjwtl9"
   },
   {
     "heuristic_risk": 0.24684049079754597,
-    "gnn_score": 0.0466882660984993,
-    "combined_score": 0.1267491574682341,
+    "gnn_score": 0.21874772012233734,
+    "combined_score": 0.22998483435288528,
     "wallet": "w_zhwjr64dpj"
   },
   {
     "heuristic_risk": 0.0018404907975460125,
-    "gnn_score": 0.3386566936969757,
-    "combined_score": 0.20393021849766832,
+    "gnn_score": 0.03566911071538925,
+    "combined_score": 0.022137663120780984,
     "wallet": "w_fm8zov7ln2"
   },
   {
     "heuristic_risk": 0.248680981595092,
-    "gnn_score": 0.025312434881925583,
-    "combined_score": 0.11465985449851473,
+    "gnn_score": 0.250180721282959,
+    "combined_score": 0.24958083434850892,
     "wallet": "w_or7875aud9"
   },
   {
     "heuristic_risk": 0.24990797546012267,
-    "gnn_score": 0.0341172032058239,
-    "combined_score": 0.1204335132251305,
+    "gnn_score": 0.23154617846012115,
+    "combined_score": 0.23889090322058626,
     "wallet": "w_fxhkc856wp"
   },
   {
     "heuristic_risk": 0.24745398773006133,
-    "gnn_score": 0.03530387952923775,
-    "combined_score": 0.12016392355462524,
+    "gnn_score": 0.3082307279109955,
+    "combined_score": 0.28392004077931854,
     "wallet": "w_4lmct64z7w"
   },
   {
     "heuristic_risk": 0.250521472392638,
-    "gnn_score": 0.02365991286933422,
-    "combined_score": 0.11440453686492025,
+    "gnn_score": 0.2381037175655365,
+    "combined_score": 0.2430708194963771,
     "wallet": "w_j43d5iqvnb"
   },
   {
     "heuristic_risk": 0.24806748466257666,
-    "gnn_score": 0.061323828995227814,
-    "combined_score": 0.13602129126216736,
+    "gnn_score": 0.29588139057159424,
+    "combined_score": 0.2767558371486839,
     "wallet": "w_hl1n13jcat"
   },
   {
     "heuristic_risk": 0.3017944785276073,
-    "gnn_score": 0.40938830375671387,
-    "combined_score": 0.366350782605768,
+    "gnn_score": 0.6031709313392639,
+    "combined_score": 0.48262035617506577,
     "wallet": "exchange_iogxpbwhvn"
   },
   {
     "heuristic_risk": 0.24806748466257666,
-    "gnn_score": 0.03410248085856438,
-    "combined_score": 0.1196884823801693,
+    "gnn_score": 0.26214978098869324,
+    "combined_score": 0.2565168713989433,
     "wallet": "w_9xuy41iblj"
   },
   {
     "heuristic_risk": 0.24745398773006133,
-    "gnn_score": 0.04545016959309578,
-    "combined_score": 0.1262516979654691,
+    "gnn_score": 0.23439918458461761,
+    "combined_score": 0.23962110882302734,
     "wallet": "w_myx444nlz1"
   },
   {
     "heuristic_risk": 0.29306748466257665,
-    "gnn_score": 0.02700267918407917,
-    "combined_score": 0.1334286017480072,
+    "gnn_score": 0.2426130771636963,
+    "combined_score": 0.26279484314348067,
     "wallet": "w_3rzsj49itn"
   },
   {
     "heuristic_risk": 0.24684049079754597,
-    "gnn_score": 0.040197744965553284,
-    "combined_score": 0.12285484516099551,
+    "gnn_score": 0.28018057346343994,
+    "combined_score": 0.2668445403970824,
     "wallet": "w_xfgcaqvkiz"
   },
   {
     "heuristic_risk": 0.24745398773006133,
-    "gnn_score": 0.03530387952923775,
-    "combined_score": 0.12016392355462524,
+    "gnn_score": 0.3082307279109955,
+    "combined_score": 0.28392004077931854,
     "wallet": "w_2m0w10lbt3"
   },
   {
     "heuristic_risk": 0.24929447852760733,
-    "gnn_score": 0.032982248812913895,
-    "combined_score": 0.11950714069879127,
+    "gnn_score": 0.23357559740543365,
+    "combined_score": 0.23986315283453535,
     "wallet": "w_ww4fyb8dal"
   },
   {
     "heuristic_risk": 0.299340490797546,
-    "gnn_score": 0.17165593802928925,
-    "combined_score": 0.22272976658717253,
+    "gnn_score": 0.7203817963600159,
+    "combined_score": 0.5519652979768859,
     "wallet": "w_5psq0oxfq8"
   },
   {
     "heuristic_risk": 0.299340490797546,
-    "gnn_score": 0.44387418031692505,
-    "combined_score": 0.38606071643010237,
+    "gnn_score": 0.8358350992202759,
+    "combined_score": 0.6212372796930419,
     "wallet": "w_fcd6mzsgip"
   },
   {
     "heuristic_risk": 0.0006134969325153375,
-    "gnn_score": 0.31360554695129395,
-    "combined_score": 0.18840873886471146,
+    "gnn_score": 0.03027777001261711,
+    "combined_score": 0.018412061898163492,
     "wallet": "w_wd7oi0pesg"
   },
   {
     "heuristic_risk": 0.24806748466257666,
-    "gnn_score": 0.03285552188754082,
-    "combined_score": 0.11894030811514225,
+    "gnn_score": 0.3097541928291321,
+    "combined_score": 0.28507952148343885,
     "wallet": "w_9382kkzmpj"
   },
   {
     "heuristic_risk": 0.24806748466257666,
-    "gnn_score": 0.02938380278646946,
-    "combined_score": 0.11685727665449944,
+    "gnn_score": 0.25584089756011963,
+    "combined_score": 0.2527315443220314,
     "wallet": "w_cslqc3c54w"
   },
   {
     "heuristic_risk": 0.248680981595092,
-    "gnn_score": 0.04876464977860451,
-    "combined_score": 0.12873118399531563,
+    "gnn_score": 0.09811902791261673,
+    "combined_score": 0.15834381087572297,
     "wallet": "w_hejla0gnzs"
   },
   {
     "heuristic_risk": 0.24745398773006133,
-    "gnn_score": 0.051422953605651855,
-    "combined_score": 0.12983536762794468,
+    "gnn_score": 0.35185763239860535,
+    "combined_score": 0.3100961804916522,
     "wallet": "w_3sdygfliji"
   },
   {
     "heuristic_risk": 0.24806748466257666,
-    "gnn_score": 0.032042354345321655,
-    "combined_score": 0.1184524068447527,
+    "gnn_score": 0.25026172399520874,
+    "combined_score": 0.24938402826215592,
     "wallet": "w_kkv9rftmtt"
   },
   {
     "heuristic_risk": 0.24929447852760733,
-    "gnn_score": 0.027761176228523254,
-    "combined_score": 0.11637449752068592,
+    "gnn_score": 0.2343595325946808,
+    "combined_score": 0.24033352288878035,
     "wallet": "w_6ddfgs3jon"
   },
   {
     "heuristic_risk": 0.24990797546012267,
-    "gnn_score": 0.029134776443243027,
-    "combined_score": 0.11744405716758198,
+    "gnn_score": 0.29065412282943726,
+    "combined_score": 0.2743556668619437,
     "wallet": "w_hc36kof8kr"
   },
   {
     "heuristic_risk": 0.24745398773006133,
-    "gnn_score": 0.029456162825226784,
-    "combined_score": 0.11665529427727672,
+    "gnn_score": 0.24400563538074493,
+    "combined_score": 0.24538498228093597,
     "wallet": "w_k0get8t63j"
   },
   {
     "heuristic_risk": 0.0006134969325153375,
-    "gnn_score": 0.31360554695129395,
-    "combined_score": 0.18840873886471146,
+    "gnn_score": 0.03027777001261711,
+    "combined_score": 0.018412061898163492,
     "wallet": "w_uxg2myr06n"
   },
   {
     "heuristic_risk": 0.24806748466257666,
-    "gnn_score": 0.07257609069347382,
-    "combined_score": 0.14277264977123108,
+    "gnn_score": 0.07407984137535095,
+    "combined_score": 0.14367490018035736,
     "wallet": "w_5py6b2knft"
   },
   {
     "heuristic_risk": 0.250521472392638,
-    "gnn_score": 0.02855646423995495,
-    "combined_score": 0.11734246750102817,
+    "gnn_score": 0.2908230125904083,
+    "combined_score": 0.27470240843222915,
     "wallet": "w_eyuhz1gv0e"
   },
   {
     "heuristic_risk": 0.30056748466257666,
-    "gnn_score": 0.08657728135585785,
-    "combined_score": 0.1721733656587776,
+    "gnn_score": 0.6190865635871887,
+    "combined_score": 0.4916789379778084,
     "wallet": "w_j70e3p15ah"
   },
   {
     "heuristic_risk": 0.291840490797546,
-    "gnn_score": 0.0425899401307106,
-    "combined_score": 0.1422901622600899,
+    "gnn_score": 0.2533074617385864,
+    "combined_score": 0.2687206793226347,
     "wallet": "w_493wxa73jg"
   },
   {
     "heuristic_risk": 0.24806748466257666,
-    "gnn_score": 0.038338206708431244,
-    "combined_score": 0.12222991826261845,
+    "gnn_score": 0.25019100308418274,
+    "combined_score": 0.24934160465623703,
     "wallet": "w_xyvgiui9kk"
   },
   {
     "heuristic_risk": 0.0006134969325153375,
-    "gnn_score": 0.31360554695129395,
-    "combined_score": 0.18840873886471146,
+    "gnn_score": 0.03027777001261711,
+    "combined_score": 0.018412061898163492,
     "wallet": "w_7oq2zdo74v"
   },
   {
     "heuristic_risk": 0.24806748466257666,
-    "gnn_score": 0.06043659895658493,
-    "combined_score": 0.13548895472909775,
+    "gnn_score": 0.28164437413215637,
+    "combined_score": 0.2682136272850212,
     "wallet": "w_a78e9rivh6"
   },
   {
     "heuristic_risk": 0.24745398773006133,
-    "gnn_score": 0.026566293090581894,
-    "combined_score": 0.11492137094637367,
+    "gnn_score": 0.285626083612442,
+    "combined_score": 0.2703572571804187,
     "wallet": "w_6wktakpuxq"
   },
   {
     "heuristic_risk": 0.0006134969325153375,
-    "gnn_score": 0.31360554695129395,
-    "combined_score": 0.18840873886471146,
+    "gnn_score": 0.03027777001261711,
+    "combined_score": 0.018412061898163492,
     "wallet": "w_gyggsnpuev"
   },
   {
     "heuristic_risk": 0.24745398773006133,
-    "gnn_score": 0.031455785036087036,
-    "combined_score": 0.11785506685873481,
+    "gnn_score": 0.28997910022735596,
+    "combined_score": 0.27296905820867035,
     "wallet": "w_ns832ejx5t"
   },
   {
     "heuristic_risk": 0.3017944785276073,
-    "gnn_score": 0.04226351156830788,
-    "combined_score": 0.14607590021467282,
+    "gnn_score": 0.3971388638019562,
+    "combined_score": 0.3590011126724489,
     "wallet": "w_l1cq99chj7"
   },
   {
     "heuristic_risk": 0.24929447852760733,
-    "gnn_score": 0.031216846778988838,
-    "combined_score": 0.11844790096855236,
+    "gnn_score": 0.2454717606306076,
+    "combined_score": 0.24700085374987196,
     "wallet": "w_iaakytt3im"
   },
   {
     "heuristic_risk": 0.248680981595092,
-    "gnn_score": 0.02841987833380699,
-    "combined_score": 0.11652432038337907,
+    "gnn_score": 0.29027315974235535,
+    "combined_score": 0.273636300404379,
     "wallet": "w_d44k1j6fp8"
   },
   {
     "heuristic_risk": 0.0006134969325153375,
-    "gnn_score": 0.31360554695129395,
-    "combined_score": 0.18840873886471146,
+    "gnn_score": 0.03027777001261711,
+    "combined_score": 0.018412061898163492,
     "wallet": "w_h024kwk585"
   },
   {
     "heuristic_risk": 0.248680981595092,
-    "gnn_score": 0.040997788310050964,
-    "combined_score": 0.12407106748671254,
+    "gnn_score": 0.09605759382247925,
+    "combined_score": 0.15710695116669854,
     "wallet": "w_t1ntmjsrd9"
   },
   {
     "heuristic_risk": 0.24806748466257666,
-    "gnn_score": 0.036741774529218674,
-    "combined_score": 0.12127205858256188,
+    "gnn_score": 0.27283337712287903,
+    "combined_score": 0.2629270231189903,
     "wallet": "w_3fpoyipk0q"
   },
   {
     "heuristic_risk": 0.24806748466257666,
-    "gnn_score": 0.03311345726251602,
-    "combined_score": 0.1190950697126564,
+    "gnn_score": 0.23635993897914886,
+    "combined_score": 0.24104296917344895,
     "wallet": "w_dw2pcn9t84"
   },
   {
     "heuristic_risk": 0.24806748466257666,
-    "gnn_score": 0.03991108760237694,
-    "combined_score": 0.12317364791657295,
+    "gnn_score": 0.25157248973846436,
+    "combined_score": 0.250170496648806,
     "wallet": "w_3kx7eedtjv"
   },
   {
     "heuristic_risk": 0.24684049079754597,
-    "gnn_score": 0.031674180179834366,
-    "combined_score": 0.11774070517197707,
+    "gnn_score": 0.2387748509645462,
+    "combined_score": 0.24200111583844283,
     "wallet": "w_u2gc5wi6fq"
   },
   {
     "heuristic_risk": 0.24806748466257666,
-    "gnn_score": 0.03477231785655022,
-    "combined_score": 0.12009038532401886,
+    "gnn_score": 0.24184134602546692,
+    "combined_score": 0.24433180446054306,
     "wallet": "w_hh5lf6a4fe"
   },
   {
     "heuristic_risk": 0.24745398773006133,
-    "gnn_score": 0.036557652056217194,
-    "combined_score": 0.12091618632575485,
+    "gnn_score": 0.28635144233703613,
+    "combined_score": 0.2707924604942462,
     "wallet": "w_874frhocn9"
   },
   {
     "heuristic_risk": 0.24806748466257666,
-    "gnn_score": 0.04902110993862152,
-    "combined_score": 0.12863966020073261,
+    "gnn_score": 0.353486567735672,
+    "combined_score": 0.3113189464273628,
     "wallet": "w_r2ykccprhv"
   },
   {
     "heuristic_risk": 0.24684049079754597,
-    "gnn_score": 0.05329832807183266,
-    "combined_score": 0.1307151946522341,
+    "gnn_score": 0.2769651412963867,
+    "combined_score": 0.26491528705731493,
     "wallet": "w_9tze5r5uqp"
   },
   {
     "heuristic_risk": 0.24622699386503064,
-    "gnn_score": 0.0449410043656826,
-    "combined_score": 0.12545540053795085,
+    "gnn_score": 0.2965637147426605,
+    "combined_score": 0.2764290353323053,
     "wallet": "w_y4lyk83tql"
   },
   {
     "heuristic_risk": 0.353680981595092,
-    "gnn_score": 0.5557715892791748,
-    "combined_score": 0.4749353462055417,
+    "gnn_score": 0.9433873891830444,
+    "combined_score": 0.7075048619106503,
     "wallet": "illicit_7yt2m6twd1"
   },
   {
     "heuristic_risk": 0.248680981595092,
-    "gnn_score": 0.029748158529400826,
-    "combined_score": 0.11732128850073537,
+    "gnn_score": 0.2730562090873718,
+    "combined_score": 0.26330613001138886,
     "wallet": "w_izasnwywrr"
   },
   {
     "heuristic_risk": 0.3449539877300613,
-    "gnn_score": 0.09131456166505814,
-    "combined_score": 0.19277033358117554,
+    "gnn_score": 0.5886644124984741,
+    "combined_score": 0.49118024259110904,
     "wallet": "w_cgvyie6ivw"
   },
   {
     "heuristic_risk": 0.24990797546012267,
-    "gnn_score": 0.03206799179315567,
-    "combined_score": 0.1192039867500586,
+    "gnn_score": 0.27513208985328674,
+    "combined_score": 0.2650424560169501,
     "wallet": "w_7c3dd03uvu"
   },
   {
     "heuristic_risk": 0.001226993865030675,
-    "gnn_score": 0.3260068893432617,
-    "combined_score": 0.19609494307289826,
+    "gnn_score": 0.03286682069301605,
+    "combined_score": 0.020210889961821903,
     "wallet": "w_5050ui22kx"
   },
   {
     "heuristic_risk": 0.24929447852760733,
-    "gnn_score": 0.024831850081682205,
-    "combined_score": 0.11461690183258129,
+    "gnn_score": 0.25033441185951233,
+    "combined_score": 0.24991844150698256,
     "wallet": "w_tl3q4n89qk"
   },
   {
     "heuristic_risk": 0.001226993865030675,
-    "gnn_score": 0.3260068893432617,
-    "combined_score": 0.19609494307289826,
+    "gnn_score": 0.03286682069301605,
+    "combined_score": 0.020210889961821903,
     "wallet": "w_ianouof0on"
   },
   {
     "heuristic_risk": 0.24806748466257666,
-    "gnn_score": 0.027394866570830345,
-    "combined_score": 0.115663915297645,
+    "gnn_score": 0.28010016679763794,
+    "combined_score": 0.2672871028843101,
     "wallet": "w_hhpbmyofqe"
   },
   {
     "heuristic_risk": 0.301180981595092,
-    "gnn_score": 0.04665519669651985,
-    "combined_score": 0.14846551102847774,
+    "gnn_score": 0.521108865737915,
+    "combined_score": 0.4331377359226437,
     "wallet": "w_0982n2atqy"
   },
   {
     "heuristic_risk": 0.24806748466257666,
-    "gnn_score": 0.037098247557878494,
-    "combined_score": 0.12148594239975777,
+    "gnn_score": 0.22165629267692566,
+    "combined_score": 0.23222078139211502,
     "wallet": "w_0ubmc97c7b"
   },
   {
     "heuristic_risk": 0.299340490797546,
-    "gnn_score": 0.4889940321445465,
-    "combined_score": 0.4131326394476042,
+    "gnn_score": 0.8701596856117249,
+    "combined_score": 0.6418320553697692,
     "wallet": "w_fyo1750ceh"
   },
   {
     "heuristic_risk": 0.24929447852760733,
-    "gnn_score": 0.025120867416262627,
-    "combined_score": 0.11479031223332954,
+    "gnn_score": 0.23222970962524414,
+    "combined_score": 0.23905562910711836,
     "wallet": "w_lc58drc11e"
   },
   {
     "heuristic_risk": 0.0006134969325153375,
-    "gnn_score": 0.31360554695129395,
-    "combined_score": 0.18840873886471146,
+    "gnn_score": 0.03027777001261711,
+    "combined_score": 0.018412061898163492,
     "wallet": "w_2voi8uyyf1"
   },
   {
     "heuristic_risk": 0.0018404907975460125,
-    "gnn_score": 0.3386566936969757,
-    "combined_score": 0.20393021849766832,
+    "gnn_score": 0.03566911071538925,
+    "combined_score": 0.022137663120780984,
     "wallet": "w_c8ra484nl6"
   },
   {
     "heuristic_risk": 0.24684049079754597,
-    "gnn_score": 0.03792755678296089,
-    "combined_score": 0.12149273187891105,
+    "gnn_score": 0.3067113757133484,
+    "combined_score": 0.2827630336679564,
     "wallet": "w_qjg02u1g46"
   },
   {
     "heuristic_risk": 0.001226993865030675,
-    "gnn_score": 0.3260068893432617,
-    "combined_score": 0.19609494307289826,
+    "gnn_score": 0.03286682069301605,
+    "combined_score": 0.020210889961821903,
     "wallet": "w_3y30ysxpnn"
   },
   {
     "heuristic_risk": 0.30056748466257666,
-    "gnn_score": 0.039317578077316284,
-    "combined_score": 0.14381754182900752,
+    "gnn_score": 0.4382054805755615,
+    "combined_score": 0.38315029413129653,
     "wallet": "w_7s55j2o7s3"
   },
   {
     "heuristic_risk": 0.0018404907975460125,
-    "gnn_score": 0.3386566936969757,
-    "combined_score": 0.20393021849766832,
+    "gnn_score": 0.03566911071538925,
+    "combined_score": 0.022137663120780984,
     "wallet": "w_ifpwioxd9c"
   },
   {
     "heuristic_risk": 0.24929447852760733,
-    "gnn_score": 0.02320573851466179,
-    "combined_score": 0.11364123526489807,
+    "gnn_score": 0.2667847275733948,
+    "combined_score": 0.2597886279550798,
     "wallet": "w_31yihair4c"
   },
   {
     "heuristic_risk": 0.24684049079754597,
-    "gnn_score": 0.0611489936709404,
-    "combined_score": 0.1354255932666407,
+    "gnn_score": 0.30299970507621765,
+    "combined_score": 0.2805360253252135,
     "wallet": "w_uvy8n1utox"
   },
   {
     "heuristic_risk": 0.24684049079754597,
-    "gnn_score": 0.047295406460762024,
-    "combined_score": 0.12711344056800464,
+    "gnn_score": 0.27596592903137207,
+    "combined_score": 0.26431575373784166,
     "wallet": "w_i15cqzcuct"
   },
   {
     "heuristic_risk": 0.24745398773006133,
-    "gnn_score": 0.03530387952923775,
-    "combined_score": 0.12016392355462524,
+    "gnn_score": 0.3082307279109955,
+    "combined_score": 0.28392004077931854,
     "wallet": "w_pvs7hzioyk"
   },
   {
     "heuristic_risk": 0.24684049079754597,
-    "gnn_score": 0.07102904468774796,
-    "combined_score": 0.14135362536684135,
+    "gnn_score": 0.2945181131362915,
+    "combined_score": 0.2754470701612578,
     "wallet": "w_7ur23gdppq"
   },
   {
     "heuristic_risk": 0.24745398773006133,
-    "gnn_score": 0.0457451194524765,
-    "combined_score": 0.12642866788109752,
+    "gnn_score": 0.2762569487094879,
+    "combined_score": 0.2647357643177173,
     "wallet": "w_cwi64ciyhe"
   },
   {
     "heuristic_risk": 0.29122699386503065,
-    "gnn_score": 0.04084938019514084,
-    "combined_score": 0.14100042678068386,
+    "gnn_score": 0.31007298827171326,
+    "combined_score": 0.3025345964695047,
     "wallet": "w_k9tr74qgef"
   },
   {
     "heuristic_risk": 0.24745398773006133,
-    "gnn_score": 0.06529935449361801,
-    "combined_score": 0.13816121076842758,
+    "gnn_score": 0.2800711989402771,
+    "combined_score": 0.2670243144561908,
     "wallet": "w_74x2ek3zez"
   },
   {
     "heuristic_risk": 0.248680981595092,
-    "gnn_score": 0.025976479053497314,
-    "combined_score": 0.11505828081519326,
+    "gnn_score": 0.28187206387519836,
+    "combined_score": 0.26859563990385255,
     "wallet": "w_xaji0y6dpb"
   },
   {
     "heuristic_risk": 0.24806748466257666,
-    "gnn_score": 0.02764894999563694,
-    "combined_score": 0.11581636535252895,
+    "gnn_score": 0.2613893449306488,
+    "combined_score": 0.2560606127443489,
     "wallet": "w_l8os9xtogn"
   },
   {
     "heuristic_risk": 0.24745398773006133,
-    "gnn_score": 0.034756094217300415,
-    "combined_score": 0.11983525236746284,
+    "gnn_score": 0.26228269934654236,
+    "combined_score": 0.25635122364064666,
     "wallet": "w_g2qzw3c1qk"
   },
   {
     "heuristic_risk": 0.24806748466257666,
-    "gnn_score": 0.0325654000043869,
-    "combined_score": 0.11876623461272087,
+    "gnn_score": 0.2503679394721985,
+    "combined_score": 0.249447760528582,
     "wallet": "w_twbozd1at7"
   },
   {
     "heuristic_risk": 0.248680981595092,
-    "gnn_score": 0.036180540919303894,
-    "combined_score": 0.12118071718961915,
+    "gnn_score": 0.28106239438056946,
+    "combined_score": 0.2681098322466107,
     "wallet": "w_4gh2m5zja8"
   },
   {
     "heuristic_risk": 0.248680981595092,
-    "gnn_score": 0.024550603702664375,
-    "combined_score": 0.11420275579095801,
+    "gnn_score": 0.2614484429359436,
+    "combined_score": 0.2563414613798352,
     "wallet": "w_zp08j3trp0"
   },
   {
     "heuristic_risk": 0.24806748466257666,
-    "gnn_score": 0.02714380994439125,
-    "combined_score": 0.11551328132178154,
+    "gnn_score": 0.2664797008037567,
+    "combined_score": 0.25911481434728467,
     "wallet": "w_yv37dia5u6"
   },
   {
     "heuristic_risk": 0.24745398773006133,
-    "gnn_score": 0.03044878877699375,
-    "combined_score": 0.11725086947580787,
+    "gnn_score": 0.25556376576423645,
+    "combined_score": 0.2523198634912631,
     "wallet": "w_nam148p0tv"
   },
   {
     "heuristic_risk": 0.301180981595092,
-    "gnn_score": 0.05258163809776306,
-    "combined_score": 0.15202137698681076,
+    "gnn_score": 0.5190104842185974,
+    "combined_score": 0.43187870701105313,
     "wallet": "w_nhj7xvg0fn"
   },
   {
     "heuristic_risk": 0.001226993865030675,
-    "gnn_score": 0.3260068893432617,
-    "combined_score": 0.19609494307289826,
+    "gnn_score": 0.03286682069301605,
+    "combined_score": 0.020210889961821903,
     "wallet": "w_hcbn9wszv8"
   },
   {
     "heuristic_risk": 0.24745398773006133,
-    "gnn_score": 0.04928215220570564,
-    "combined_score": 0.128550887533035,
+    "gnn_score": 0.2778293192386627,
+    "combined_score": 0.26567918663522216,
     "wallet": "w_o119xp9n56"
   },
   {
     "heuristic_risk": 0.24745398773006133,
-    "gnn_score": 0.03510067239403725,
-    "combined_score": 0.12004199852844688,
+    "gnn_score": 0.2747081220149994,
+    "combined_score": 0.26380646830102417,
     "wallet": "w_zqy72wx7pt"
   },
   {
     "heuristic_risk": 0.24745398773006133,
-    "gnn_score": 0.03491625934839249,
-    "combined_score": 0.11993135181864711,
+    "gnn_score": 0.23409730195999146,
+    "combined_score": 0.23943998520871612,
     "wallet": "w_ss9toqw9ja"
   },
   {
     "heuristic_risk": 0.24806748466257666,
-    "gnn_score": 0.0455540232360363,
-    "combined_score": 0.1265594096692976,
+    "gnn_score": 0.2792631983757019,
+    "combined_score": 0.26678491885091626,
     "wallet": "w_dpg8sbi4q2"
   },
   {
     "heuristic_risk": 0.24745398773006133,
-    "gnn_score": 0.03886571526527405,
-    "combined_score": 0.12230102574130508,
+    "gnn_score": 0.2346939742565155,
+    "combined_score": 0.2397979856063983,
     "wallet": "w_9xpseimvih"
   },
   {
     "heuristic_risk": 0.0018404907975460125,
-    "gnn_score": 0.3386566936969757,
-    "combined_score": 0.20393021849766832,
+    "gnn_score": 0.03566911071538925,
+    "combined_score": 0.022137663120780984,
     "wallet": "w_qg433e1i1p"
   },
   {
     "heuristic_risk": 0.24745398773006133,
-    "gnn_score": 0.06601148843765259,
-    "combined_score": 0.13858849038979026,
+    "gnn_score": 0.29519930481910706,
+    "combined_score": 0.27610117798348877,
     "wallet": "w_h75lxo6qji"
   },
   {
     "heuristic_risk": 0.24684049079754597,
-    "gnn_score": 0.03792755678296089,
-    "combined_score": 0.12149273187891105,
+    "gnn_score": 0.3067113757133484,
+    "combined_score": 0.2827630336679564,
     "wallet": "w_ujv6oh9sdb"
   },
   {
     "heuristic_risk": 0.0006134969325153375,
-    "gnn_score": 0.31360554695129395,
-    "combined_score": 0.18840873886471146,
+    "gnn_score": 0.03027777001261711,
+    "combined_score": 0.018412061898163492,
     "wallet": "w_omtzzf8adf"
   },
   {
     "heuristic_risk": 0.248680981595092,
-    "gnn_score": 0.03349319100379944,
-    "combined_score": 0.11956830724031647,
+    "gnn_score": 0.2521386742591858,
+    "combined_score": 0.2507555971935483,
     "wallet": "w_71hssbelrq"
   },
   {
     "heuristic_risk": 0.0018404907975460125,
-    "gnn_score": 0.3386566936969757,
-    "combined_score": 0.20393021849766832,
+    "gnn_score": 0.03566911071538925,
+    "combined_score": 0.022137663120780984,
     "wallet": "w_sc4e5hrdu4"
   },
   {
     "heuristic_risk": 0.291840490797546,
-    "gnn_score": 0.050411488860845566,
-    "combined_score": 0.14698309112564184,
+    "gnn_score": 0.26620590686798096,
+    "combined_score": 0.27645974640027143,
     "wallet": "w_d84u89yjb1"
   },
   {
     "heuristic_risk": 0.24806748466257666,
-    "gnn_score": 0.032767001539468765,
-    "combined_score": 0.11888719478871193,
+    "gnn_score": 0.28049954771995544,
+    "combined_score": 0.2675267284574684,
     "wallet": "w_ul1rsrla8s"
   },
   {
     "heuristic_risk": 0.001226993865030675,
-    "gnn_score": 0.3260068893432617,
-    "combined_score": 0.19609494307289826,
+    "gnn_score": 0.03286682069301605,
+    "combined_score": 0.020210889961821903,
     "wallet": "w_p49kwv08hh"
   },
   {
     "heuristic_risk": 0.0018404907975460125,
-    "gnn_score": 0.3386566936969757,
-    "combined_score": 0.20393021849766832,
+    "gnn_score": 0.03566911071538925,
+    "combined_score": 0.022137663120780984,
     "wallet": "w_tlcxlvpymb"
   },
   {
     "heuristic_risk": 0.248680981595092,
-    "gnn_score": 0.031769875437021255,
-    "combined_score": 0.11853431939036568,
+    "gnn_score": 0.31128183007240295,
+    "combined_score": 0.2862414906814786,
     "wallet": "w_phr62gdswm"
   },
   {
     "heuristic_risk": 0.0018404907975460125,
-    "gnn_score": 0.3386566936969757,
-    "combined_score": 0.20393021849766832,
+    "gnn_score": 0.03566911071538925,
+    "combined_score": 0.022137663120780984,
     "wallet": "w_ut076g5g79"
   },
   {
     "heuristic_risk": 0.001226993865030675,
-    "gnn_score": 0.3260068893432617,
-    "combined_score": 0.19609494307289826,
+    "gnn_score": 0.03286682069301605,
+    "combined_score": 0.020210889961821903,
     "wallet": "w_jj8mgpp1no"
   },
   {
     "heuristic_risk": 0.24622699386503064,
-    "gnn_score": 0.041568245738744736,
-    "combined_score": 0.12343174647937522,
+    "gnn_score": 0.27988705039024353,
+    "combined_score": 0.2664230397010873,
     "wallet": "w_v1xg1r11q7"
   },
   {
     "heuristic_risk": 0.24684049079754597,
-    "gnn_score": 0.07102904468774796,
-    "combined_score": 0.14135362536684135,
+    "gnn_score": 0.2945181131362915,
+    "combined_score": 0.2754470701612578,
     "wallet": "w_1w1ht7pze9"
   },
   {
     "heuristic_risk": 0.29122699386503065,
-    "gnn_score": 0.06552619487047195,
-    "combined_score": 0.15580651670346962,
+    "gnn_score": 0.30808404088020325,
+    "combined_score": 0.3013412220741342,
     "wallet": "w_otohp6vz41"
   },
   {
     "heuristic_risk": 0.248680981595092,
-    "gnn_score": 0.026703663170337677,
-    "combined_score": 0.11549459054023942,
+    "gnn_score": 0.26178425550460815,
+    "combined_score": 0.2565429548814984,
     "wallet": "w_jja26yfpmv"
   },
   {
     "heuristic_risk": 0.24684049079754597,
-    "gnn_score": 0.04928606376051903,
-    "combined_score": 0.1283078356929169,
+    "gnn_score": 0.2823687195777893,
+    "combined_score": 0.2681574370063887,
     "wallet": "w_55nf4zw9xa"
   },
   {
     "heuristic_risk": 0.24745398773006133,
-    "gnn_score": 0.03295789659023285,
-    "combined_score": 0.1187563337912223,
+    "gnn_score": 0.27133727073669434,
+    "combined_score": 0.2617839634945056,
     "wallet": "w_a1wj0tpac5"
   },
   {
     "heuristic_risk": 0.24745398773006133,
-    "gnn_score": 0.029169946908950806,
-    "combined_score": 0.11648356398245308,
+    "gnn_score": 0.2560855448246002,
+    "combined_score": 0.25263292198678466,
     "wallet": "w_os6zle6kwh"
   },
   {
     "heuristic_risk": 0.30056748466257666,
-    "gnn_score": 0.13775679469108582,
-    "combined_score": 0.2028810751500305,
+    "gnn_score": 0.7217808961868286,
+    "combined_score": 0.5532955375375923,
     "wallet": "w_p501nouhtc"
   },
   {
     "heuristic_risk": 0.0006134969325153375,
-    "gnn_score": 0.31360554695129395,
-    "combined_score": 0.18840873886471146,
+    "gnn_score": 0.03027777001261711,
+    "combined_score": 0.018412061898163492,
     "wallet": "w_y981udp2fm"
   },
   {
     "heuristic_risk": 0.29872699386503065,
-    "gnn_score": 0.42976686358451843,
-    "combined_score": 0.3773509216571878,
+    "gnn_score": 0.8894241452217102,
+    "combined_score": 0.6531453085208963,
     "wallet": "w_ou9iy4x41d"
   },
   {
     "heuristic_risk": 0.2999539877300613,
-    "gnn_score": 0.10254543274641037,
-    "combined_score": 0.18150885846516107,
+    "gnn_score": 0.5756255984306335,
+    "combined_score": 0.4653569541504047,
     "wallet": "w_gh8riec4d1"
   },
   {
     "heuristic_risk": 0.30056748466257666,
-    "gnn_score": 0.04130640625953674,
-    "combined_score": 0.14501083799328174,
+    "gnn_score": 0.5078389644622803,
+    "combined_score": 0.4249303785028633,
     "wallet": "w_r4kz36u8ue"
   },
   {
     "heuristic_risk": 0.24684049079754597,
-    "gnn_score": 0.07040461152791977,
-    "combined_score": 0.14097896547094443,
+    "gnn_score": 0.27941110730171204,
+    "combined_score": 0.2663828726209746,
     "wallet": "w_ntcagrp2u4"
   },
   {
     "heuristic_risk": 0.299340490797546,
-    "gnn_score": 0.1566927284002304,
-    "combined_score": 0.2137518393196211,
+    "gnn_score": 0.7190967798233032,
+    "combined_score": 0.5511942820943938,
     "wallet": "w_dbvzb0oih5"
   },
   {
     "heuristic_risk": 0.24684049079754597,
-    "gnn_score": 0.03792755678296089,
-    "combined_score": 0.12149273187891105,
+    "gnn_score": 0.3067113757133484,
+    "combined_score": 0.2827630336679564,
     "wallet": "w_9skdgigatj"
   },
   {
     "heuristic_risk": 0.24622699386503064,
-    "gnn_score": 0.05327442288398743,
-    "combined_score": 0.1304554535115789,
+    "gnn_score": 0.2817053198814392,
+    "combined_score": 0.2675139984155725,
     "wallet": "w_9rr7s20cv3"
   },
   {
     "heuristic_risk": 0.24806748466257666,
-    "gnn_score": 0.04344315826892853,
-    "combined_score": 0.12529288919891682,
+    "gnn_score": 0.2328040897846222,
+    "combined_score": 0.23890945071603623,
     "wallet": "w_nyxtxmgtt0"
   },
   {
     "heuristic_risk": 0.24745398773006133,
-    "gnn_score": 0.03615695983171463,
-    "combined_score": 0.12067577099105331,
+    "gnn_score": 0.22736507654190063,
+    "combined_score": 0.23540065293809387,
     "wallet": "w_p6befflzm7"
   },
   {
     "heuristic_risk": 0.24745398773006133,
-    "gnn_score": 0.06601148843765259,
-    "combined_score": 0.13858849038979026,
+    "gnn_score": 0.29519930481910706,
+    "combined_score": 0.27610117798348877,
     "wallet": "w_ie0rnujjq9"
   },
   {
     "heuristic_risk": 0.001226993865030675,
-    "gnn_score": 0.3260068893432617,
-    "combined_score": 0.19609494307289826,
+    "gnn_score": 0.03286682069301605,
+    "combined_score": 0.020210889961821903,
     "wallet": "w_1t2tala753"
   },
   {
     "heuristic_risk": 0.29122699386503065,
-    "gnn_score": 0.06552619487047195,
-    "combined_score": 0.15580651670346962,
+    "gnn_score": 0.30808404088020325,
+    "combined_score": 0.3013412220741342,
     "wallet": "w_5m9j98cwn2"
   },
   {
     "heuristic_risk": 0.24684049079754597,
-    "gnn_score": 0.05329832807183266,
-    "combined_score": 0.1307151946522341,
+    "gnn_score": 0.2769651412963867,
+    "combined_score": 0.26491528705731493,
     "wallet": "w_38daly8ozc"
   },
   {
     "heuristic_risk": 0.001226993865030675,
-    "gnn_score": 0.3260068893432617,
-    "combined_score": 0.19609494307289826,
+    "gnn_score": 0.03286682069301605,
+    "combined_score": 0.020210889961821903,
     "wallet": "w_0tgsiwg0od"
   },
   {
     "heuristic_risk": 0.2456134969325153,
-    "gnn_score": 0.08142080903053284,
-    "combined_score": 0.14709788717155808,
+    "gnn_score": 0.2780938148498535,
+    "combined_score": 0.26510168768291825,
     "wallet": "w_4ivsolmlgs"
   },
   {
     "heuristic_risk": 0.2999539877300613,
-    "gnn_score": 0.07529575377702713,
-    "combined_score": 0.16515904735824083,
+    "gnn_score": 0.584999680519104,
+    "combined_score": 0.47098142724534486,
     "wallet": "w_3zmf8mdd4v"
   },
   {
     "heuristic_risk": 0.0006134969325153375,
-    "gnn_score": 0.31360554695129395,
-    "combined_score": 0.18840873886471146,
+    "gnn_score": 0.03027777001261711,
+    "combined_score": 0.018412061898163492,
     "wallet": "w_7sqrf1llks"
   },
   {
     "heuristic_risk": 0.0006134969325153375,
-    "gnn_score": 0.31360554695129395,
-    "combined_score": 0.18840873886471146,
+    "gnn_score": 0.03027777001261711,
+    "combined_score": 0.018412061898163492,
     "wallet": "w_susmesjt2j"
   },
   {
     "heuristic_risk": 0.24684049079754597,
-    "gnn_score": 0.03712717071175575,
-    "combined_score": 0.12101249911860087,
+    "gnn_score": 0.2513158917427063,
+    "combined_score": 0.2495257403053389,
     "wallet": "w_cdyk0x65mu"
   },
   {
     "heuristic_risk": 0.24684049079754597,
-    "gnn_score": 0.05591772869229317,
-    "combined_score": 0.1322868350245104,
+    "gnn_score": 0.24979199469089508,
+    "combined_score": 0.2486114050544844,
     "wallet": "w_y9v86wzs3t"
   },
   {
     "heuristic_risk": 0.001226993865030675,
-    "gnn_score": 0.3260068893432617,
-    "combined_score": 0.19609494307289826,
+    "gnn_score": 0.03286682069301605,
+    "combined_score": 0.020210889961821903,
     "wallet": "w_suflsehuds"
   },
   {
     "heuristic_risk": 0.24806748466257666,
-    "gnn_score": 0.03991108760237694,
-    "combined_score": 0.12317364791657295,
+    "gnn_score": 0.25157248973846436,
+    "combined_score": 0.250170496648806,
     "wallet": "w_9k9xjuy0bv"
   },
   {
     "heuristic_risk": 0.24684049079754597,
-    "gnn_score": 0.0611489936709404,
-    "combined_score": 0.1354255932666407,
+    "gnn_score": 0.30299970507621765,
+    "combined_score": 0.2805360253252135,
     "wallet": "w_gb7r3ocwbf"
   },
   {
     "heuristic_risk": 0.0006134969325153375,
-    "gnn_score": 0.31360554695129395,
-    "combined_score": 0.18840873886471146,
+    "gnn_score": 0.03027777001261711,
+    "combined_score": 0.018412061898163492,
     "wallet": "w_1l7dypmlva"
   },
   {
     "heuristic_risk": 0.0006134969325153375,
-    "gnn_score": 0.31360554695129395,
-    "combined_score": 0.18840873886471146,
+    "gnn_score": 0.03027777001261711,
+    "combined_score": 0.018412061898163492,
     "wallet": "w_zggm0j36tc"
   },
   {
     "heuristic_risk": 0.0006134969325153375,
-    "gnn_score": 0.31360554695129395,
-    "combined_score": 0.18840873886471146,
+    "gnn_score": 0.030277777463197708,
+    "combined_score": 0.01841206562345379,
     "wallet": "w_zc0b4mskyv"
   },
   {
     "heuristic_risk": 0.0006134969325153375,
-    "gnn_score": 0.31360554695129395,
-    "combined_score": 0.18840873886471146,
+    "gnn_score": 0.030277777463197708,
+    "combined_score": 0.01841206562345379,
     "wallet": "w_s1ssrkxlcd"
   }
 ]

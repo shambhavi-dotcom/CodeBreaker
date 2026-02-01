@@ -165,7 +165,11 @@ print(pd.Series(clf.feature_importances_, index=X.columns).sort_values(ascending
 # =========================
 # 8️⃣ GNN
 # =========================
-data = build_pyg_data(G, features_df.drop(columns=["label"]))
+data = build_pyg_data(
+    G,
+    features_df.drop(columns=["label"]),
+    features_df["label"].values
+)
 labels = torch.tensor(features_df["label"].values, dtype=torch.long)
 
 gnn_scores = train_gnn(data, labels)
@@ -183,6 +187,17 @@ features_df["combined_score"] = (
 
 print("\n=== TOP SUSPICIOUS WALLETS (COMBINED) ===")
 print(features_df.sort_values("combined_score", ascending=False).head(5))
+
+def risk_band(score):
+    if score >= 0.66:
+        return "high"
+    elif score >= 0.33:
+        return "medium"
+    else:
+        return "low"
+
+features_df["risk_band"] = features_df["combined_score"].apply(risk_band)
+
 
 # =========================
 # SAVE TOP HIGH-RISK WALLETS (FRONTEND)
